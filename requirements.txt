@@ -10,3 +10,6 @@ pytest-mock==3.14.0 # Added for testing
 python-dotenv==1.1.0
 trafilatura==2.0.0
 urllib3==2.5.0
+uvicorn
+stripe
+pyseoanalyzer
