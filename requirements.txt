@@ -13,4 +13,4 @@ urllib3==2.5.0
 uvicorn
 stripe
 pyseoanalyzer
-fastapi>=0.115.0
+fastapi
