@@ -14,3 +14,4 @@ uvicorn
 stripe
 pyseoanalyzer
 fastapi
+python-multipart
