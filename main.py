@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 import stripe
 
 # Import de bestaande analyzer
-from pyseoanalyzer import analyze_url
+from pyseoanalyzer.analyzer import analyze
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
